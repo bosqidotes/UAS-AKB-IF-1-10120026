@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676092587649",
+    "project_id": "uas-10120026",
+    "storage_bucket": "uas-10120026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676092587649:android:252f8c9548efc6be506780",
+        "android_client_info": {
+          "package_name": "com.rizki.uts__10120026"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676092587649-7ui5ofuieq7qh6njbnqcnp5mv2tjdhc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtLGKiJTaHSXJCoYIinrlV02LcBZ0ra_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676092587649-7ui5ofuieq7qh6njbnqcnp5mv2tjdhc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
